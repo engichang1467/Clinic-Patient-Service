@@ -6,18 +6,9 @@ The walk-in clinic keeps the following information about all its patients: the p
 
 The walk-in clinic patient system must allow the receptionist to
 
-```bash
-        Welcome to the Walk in Clinic Patient Service!
-
---------------------------------------------------------
-To add a patient to the database, enter: a
-To remove a patient from the database, enter: r
-To update a patient's details, enter: u
-To check to see if a patient exists, enter: s
-To show all patients in the database, enter: p
-To exit, enter: x
---------------------------------------------------------
-Your choice
->>
---------------------------------------------------------
-```
+1. Add a patient to the database
+2. Remove a patient from the database
+3. Update a patient's details
+4. Check to see if a patient exists
+5. Show all patients in the database
+6. Exit
