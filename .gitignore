@@ -1,2 +1,6 @@
+.dist
+.vscode
+.DS_Store
+
 *.o
 wi
