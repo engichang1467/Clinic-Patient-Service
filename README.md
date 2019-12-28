@@ -4,7 +4,7 @@ To develop a walk-in clinic patient system, which is to maintain the medical rec
 
 The walk-in clinic keeps the following information about all its patients: the patient's name (first and last name), address, phone number, email address and care card number.
 
-The walk-in clinic patient system must allow the receptionist to
+The walk-in clinic patient system must allow the receptionist to:
 
 1. Add a patient to the database
 2. Remove a patient from the database
