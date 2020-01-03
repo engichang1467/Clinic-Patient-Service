@@ -15,13 +15,13 @@ The walk-in clinic patient system must allow the receptionist to:
 
 ## To try it out:
 
-clone the repo
+Clone the repo
 ```bash
 $ git clone git@github.com:engichang1467/Clinic-Patient-Service.git
 $ cd Clinic-Patient-Service/
 ```
 
-compile the file 
+Compile the file 
 ```bash
 $ make
 ...
